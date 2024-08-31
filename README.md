@@ -1,6 +1,7 @@
 RESUME-PARSER
 
 This project involved building a user-friendly interface for uploading resumes, parsing them to extract key information like personal details, work experience, skills, and education, and displaying the parsed data in a clean and structured format.
+
 ✨Key Features:
 User-Friendly Interface: Designed a modern UI with intuitive features for seamless user interaction.
 Resume Parsing: Leveraged Python libraries to automate the extraction of relevant resume data.
